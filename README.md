@@ -1,7 +1,6 @@
 # Sentiment-Analysis-of-Amazon-products
-# Sentiment Analysis of Amazon Products
 
-## 1. Data Cleaning
+# 1. Data Cleaning
 # - Removed HTML tags using regular expressions.
 # - Expanded contractions (e.g., "don't" to "do not") for better processing.
 # - Removed punctuation to simplify text analysis.
