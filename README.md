@@ -24,3 +24,4 @@
  - Evaluated model performance using accuracy metric.
  - Compared models to determine the best-performing classifier for sentiment prediction.
 
+## Credits: Jerry Yang 
